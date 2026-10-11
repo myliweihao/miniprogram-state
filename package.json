@@ -1,0 +1,37 @@
+{
+  "name": "miniprogram-state",
+  "version": "1.0.1",
+  "description": "微信小程序轻量全局状态管理，自动同步页面数据。",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myliweihao/miniprogram-state.git"
+  },
+  "homepage": "https://github.com/myliweihao/miniprogram-state#readme",
+  "bugs": {
+    "url": "https://github.com/myliweihao/miniprogram-state/issues"
+  },
+  "author": "myliweihao",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "微信小程序",
+    "小程序",
+    "小程序状态管理",
+    "状态管理",
+    "全局状态",
+    "购物车",
+    "订单状态",
+    "页面共享数据",
+    "wechat",
+    "weapp",
+    "miniprogram",
+    "state",
+    "global-state",
+    "miniprogram-state"
+  ],
+  "license": "MIT"
+}

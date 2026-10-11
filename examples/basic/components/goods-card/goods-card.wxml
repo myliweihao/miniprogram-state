@@ -1,0 +1,4 @@
+<view>
+  <view>组件内用户：{{miniState.userInfo.name}}</view>
+  <view>组件内购物车：{{miniState.cart.list.length}}</view>
+</view>
